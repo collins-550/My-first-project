@@ -8,5 +8,5 @@ Aspiring SOC Analyst passionate about Cybersecurity, Threat Hunting, and Blue Te
 - Incident Response
 
 ## Connect with me
-- X: x.com/CollinsSomto2
+- X: https://x.com/CollinsSomto2
 - LinkedIn: www.linkedin.com/in/somto-ogbonna-8b217b320/
